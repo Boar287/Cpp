@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.717,D:\C++Builder\Unit8.dfm=D:\C++Builder\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,=D:\C++Builder\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,D:\C++Builder\Unit8.cpp=D:\C++Builder\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,D:\C++Builder\Unit3.cpp=D:\C++Builder\Child.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,=D:\C++Builder\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,=D:\C++Builder\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,D:\C++Builder\Project6.cbproj=D:\C++Builder\Laba1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,=D:\C++Builder\Project6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,D:\C++Builder\Project6PCH1.h=D:\C++Builder\Laba1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\C++Builder\Unit5.h=D:\C++Builder_labs\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,D:\C++Builder\Laba1,1PCH1.h=D:\C++Builder_labs\Laba1,1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,D:\C++Builder\Laba1,1.cbproj=D:\C++Builder_labs\Laba1,1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,D:\C++Builder\Parrent.cpp=D:\C++Builder_labs\Parrent.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,=D:\C++Builder\RectangleParrent.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,D:\C++Builder\RectangleParrent.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\C++Builder\Unit5.cpp=D:\C++Builder_labs\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,D:\C++Builder\Child.cpp=D:\C++Builder_labs\Child.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,D:\C++Builder\Child.h=D:\C++Builder_labs\Child.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,D:\C++Builder\Unit8.h=D:\C++Builder\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,D:\C++Builder\Laba1PCH1.h=D:\C++Builder\Laba1,1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,D:\C++Builder\Unit3.h=D:\C++Builder\Parrent.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\C++Builder\Unit5.dfm=D:\C++Builder_labs\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,D:\C++Builder\Unit3.cpp=D:\C++Builder\Parrent.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,D:\C++Builder\Parrent.h=D:\C++Builder_labs\Parrent.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,D:\C++Builder\Laba1.cbproj=D:\C++Builder\Laba1,1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,D:\C++Builder\Unit3.h=D:\C++Builder\Child.h</Transaction>
+  </Transactions>
+</BorlandProject>
