@@ -1,0 +1,2 @@
+D:\CppLabs\BinaryTrees\Debug\BinaryTrees.exe
+D:\CppLabs\BinaryTrees\Debug\BinaryTrees.pdb
