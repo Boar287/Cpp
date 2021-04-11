@@ -1,0 +1,2 @@
+D:\CppLabs\Laba4_v2.0\FuckingLaba\Debug\FuckingLaba.exe
+D:\CppLabs\Laba4_v2.0\FuckingLaba\Debug\FuckingLaba.pdb
