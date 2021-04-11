@@ -64,7 +64,7 @@ int main()
 		{
 			Polish += MathProblem[i];
 			i++;
-			if (i != MathProblem.size() - 1)
+			if (i != MathProblem.size())
 			{
 				if (!((MathProblem[i] >= '0') && (MathProblem[i] <= '9')))
 				Polish += " ";
